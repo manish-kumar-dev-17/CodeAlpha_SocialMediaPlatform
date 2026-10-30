@@ -1,0 +1,26 @@
+{
+  "name": "codealpha-social-media-platform",
+  "version": "1.0.0",
+  "description": "CodeAlpha Full Stack Development Task 2 - Mini Social Media Platform",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js"
+  },
+  "keywords": [
+    "codealpha",
+    "social-media",
+    "full-stack",
+    "express",
+    "sqlite",
+    "nodejs"
+  ],
+  "author": "CodeAlpha Intern",
+  "license": "MIT",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "cors": "^2.8.5",
+    "express": "^4.21.2",
+    "jsonwebtoken": "^9.0.2"
+  }
+}
